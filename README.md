@@ -1,6 +1,4 @@
 # clf-blockchain
 
-blockchain is an immutable, sequential chain of records called blocks. they can contain tranaction, files or any data you like, really. but the important thing i that they're chained together using hashes.
-
-make sure you have python ``3.6+`` installed (along with ``pip``) and you will also need flask and request library.
+Blockchain defined: Blockchain is a shared, immutable ledger that facilitates the process of recording transactions and tracking assets in a business network. An asset can be tangible (a house, car, cash, land) or intangible (intellectual property, patents, copyrights, branding). Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and cutting costs for all involved.
 
