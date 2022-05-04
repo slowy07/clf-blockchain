@@ -1,0 +1,17 @@
+name: crs-blockchain
+version: 0.0.1
+
+authors:
+  - arfy slowy <sloyarfy3@gmail.com>
+
+targets:
+  crystal-blockchain:
+    main: src/crystal-blockchain.cr
+
+crystal: 0.24.2
+
+license: MIT
+
+depedencies:
+  kemal:
+    github: kemalcr/kemal
