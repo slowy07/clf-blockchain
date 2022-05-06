@@ -1,0 +1,7 @@
+*.class
+*.log
+.idea
+target/
+persistence/journal/*
+persistence/snapshot/*
+.DS_STORE
